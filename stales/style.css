@@ -12,7 +12,6 @@ html, body {
 body {
     min-width: 800px;
     position: relative;
-    overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
