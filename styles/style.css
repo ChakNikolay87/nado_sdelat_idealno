@@ -48,7 +48,7 @@ body::before {
     text-align: center;
     display: inline-block;
     text-transform: uppercase;
-    padding: 460px 430px 432px 431px;
+    padding: 485px 440px 432px 431px;
     z-index: 2;
 }
 
@@ -60,7 +60,7 @@ body::before {
 }
 
 .page__title:hover::before {
-    content: 'На самом деле нет.\A Важнее — научиться ошибаться.';
+    content: 'На самом деле нет.\AВажнее &mdash; научиться ошибаться.';
     white-space: pre;
     position: absolute;
     font-size: 35px;
@@ -68,8 +68,8 @@ body::before {
     width: 746px;
     height: 158px;
     text-transform: none;
-    top: 200px;
-    left: 50px;
+    top: 190px;
+    left: 35px;
     background-color: rgba(255, 255, 255, 0.95);
     color: rgba(0, 0, 0, 0.85);
     padding: 36px 44px;
