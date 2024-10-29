@@ -48,7 +48,7 @@ body::before {
     text-align: center;
     display: inline-block;
     text-transform: uppercase;
-    padding: 360px 430px 432px 431px;
+    padding: 460px 430px 432px 431px;
     z-index: 2;
 }
 
@@ -68,8 +68,8 @@ body::before {
     width: 746px;
     height: 158px;
     text-transform: none;
-    top: 250px;
-    left: 500px;
+    top: 200px;
+    left: 50px;
     background-color: rgba(255, 255, 255, 0.95);
     color: rgba(0, 0, 0, 0.85);
     padding: 36px 44px;
